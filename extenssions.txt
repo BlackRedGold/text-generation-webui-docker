@@ -1,0 +1,7 @@
+# LucidWebSearch requires Chrome
+#https://github.com/RandomInternetPreson/LucidWebSearch
+pip install -r LucidWebSearch/requirements.txt --upgrade
+
+google-chrome --remote-debugging-port=9222 &
+
+Search for the weather in Frankfurt
