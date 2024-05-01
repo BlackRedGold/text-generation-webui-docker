@@ -1,3 +1,4 @@
 _non
 text-generation-webui/
 .**/.env
+**/.env
